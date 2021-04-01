@@ -1,0 +1,9 @@
+type: LogicDisplay
+health: 50000
+
+size: 8
+displaySize: 256
+
+category: logic
+alwaysUnlocked: true
+buildVisibility: "shown"
