@@ -7,3 +7,4 @@ displaySize: 256
 category: logic
 alwaysUnlocked: true
 buildVisibility: "shown"
+sync: true

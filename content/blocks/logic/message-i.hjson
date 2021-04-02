@@ -1,9 +1,9 @@
-type: LogicBlock
-health: 1000
+type: MessageBlock
 size: 1
+health: 10000
 
-range: 400
-instructionsPerTick: 100
+maxNewlines: 2000
+maxTextLength: 16000
 
 category: logic
 alwaysUnlocked: true

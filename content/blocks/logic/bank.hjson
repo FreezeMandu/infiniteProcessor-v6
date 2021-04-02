@@ -7,3 +7,4 @@ memoryCapacity: 2048
 category: logic
 alwaysUnlocked: true
 buildVisibility: "shown"
+sync: true
