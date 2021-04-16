@@ -1,0 +1,1 @@
+maxDisplaySize: 384
