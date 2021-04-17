@@ -7,4 +7,3 @@ memoryCapacity: 1024
 category: logic
 alwaysUnlocked: true
 buildVisibility: "shown"
-sync: true

@@ -8,4 +8,3 @@ instructionsPerTick: 100
 category: logic
 alwaysUnlocked: true
 buildVisibility: "shown"
-sync: true
