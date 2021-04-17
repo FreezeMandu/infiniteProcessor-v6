@@ -4,6 +4,6 @@ health: 50000
 size: 6
 displaySize: 192
 
-category: logic
+category: effect
 alwaysUnlocked: true
 buildVisibility: "shown"
