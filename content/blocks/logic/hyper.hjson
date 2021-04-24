@@ -2,7 +2,7 @@ type: LogicBlock
 health: 50000
 size: 3
 
-range: 640
+range: 800
 instructionsPerTick: 10000
 
 category: logic
