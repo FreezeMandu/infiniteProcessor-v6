@@ -1,0 +1,10 @@
+type: LogicBlock
+health: 5000
+size: 1
+
+range: 600
+instructionsPerTick: 10
+
+category: effect
+alwaysUnlocked: true
+buildVisibility: "shown"
