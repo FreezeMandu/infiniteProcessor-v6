@@ -3,7 +3,7 @@ health: 5000
 size: 1
 
 range: 600
-instructionsPerTick: 10
+instructionsPerTick: 1
 
 category: effect
 alwaysUnlocked: true
